@@ -1,8 +1,13 @@
 package com.axisbank;
 
 public class AxisBank {
+	private void sysout() {
+		System.out.println("first");
+	}
+
 	private void Second() {
 		System.out.println("Second");
+
 	}
 
 	public static void main(String[] args) {
@@ -14,4 +19,5 @@ public class AxisBank {
 			System.out.println("pass");
 		}
 	}
+
 }
