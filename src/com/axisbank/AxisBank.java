@@ -5,6 +5,11 @@ public class AxisBank {
 		System.out.println("first");
 	}
 
+	private void Second() {
+		System.out.println("Second");
+
+	}
+
 	public static void main(String[] args) {
 		int studentId = 1001, studentMark = 80;
 
@@ -14,4 +19,5 @@ public class AxisBank {
 			System.out.println("pass");
 		}
 	}
+
 }
